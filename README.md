@@ -1,2 +1,4 @@
 # README.md
-My name is Ellyn Darke, and I am a senior Marine Biology and Ecology major at the University of Miami. The data listed on my GitHub is in conjunction with my senior thesis project in the Cnidarian Immunity Laboratory at the Rosenstiel School for Marine, Atmospheric, and Earth Science. 
+Hi, I'm Ellyn Darke
+I am interested in the genetic responses of coral to thermal stress. Specifically, the influence of genotypic variation in susceptibility or resilience.
+I am currently learning RNA-seq data analysis from RNA extractions using DESeq2.  
